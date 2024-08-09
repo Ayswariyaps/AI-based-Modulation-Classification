@@ -7,3 +7,5 @@ EVM plays a crucial role in monitoring the signal quality to determine the perfo
 DATASET AVAILABILITY -  Yuchuan Fan, Aleksejs Udalcovs, Xiaodan Pang, Carlos Natal�ino, Marija Furdek, Sergei Popov, Oskars Ozolins, November
 24, 2020, ”2020 JOCN Constellation Dataset”, IEEE Dataport, doi:
 https://dx.doi.org/10.21227/1684-a275.
+
+Paper was published in this topic. Reference link: https://ieeexplore.ieee.org/document/10430241
